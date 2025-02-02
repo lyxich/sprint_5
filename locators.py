@@ -8,7 +8,7 @@ By.XPATH, "//input[@type='text' and @name='name' and @value='']" # Поле "Ema
 
 By.XPATH, "//input[@type='password' and @name='Пароль']" # Поле "Пароль" на странице регистрации
 
-By.XPATH, "//button[contains(@class, 'button_button__33qZ0') and text()='Зарегистрироваться']" # Кнопка "Зарегистрироваться"
+By.XPATH, "//button[contains(@class, 'button_button__33qZ0') and text()='Зарегистрироваться']" # Кнопка Зарегистрироваться
 
 By.XPATH, "//button[contains(@class, 'button_button__33qZ0') and contains(@class, 'button_button_size_large__G21Vg') and text()='Войти в аккаунт']" # Кнопка Войти в аккаунт
 
